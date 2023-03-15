@@ -5,7 +5,7 @@
 <h3>Youtube clone</h3> 
 O site é construído em cima do React, uma das bibliotecas JavaScript mais populares para desenvolvimento de interfaces de usuário.</br></br>
 
-Para estilização do jogo, é utilizada a Material UI 5, uma das bibliotecas mais famosas de estilização front-end.
+Para estilização do site, é utilizada a Material UI 5, uma das bibliotecas mais famosas de estilização front-end.
 
 <h1> :computer: Tecnologias</h1>
 - Utilizei a API "Youtube v3" para mostrar a thumbnail e título dos vídeos e que pode ser encontrada no site RapidAPI </br>
